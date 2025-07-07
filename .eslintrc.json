@@ -1,0 +1,4 @@
+{
+  "//": "HZ FiveM Artifacts DB - Creado por HZ - Hazteunsitio.net",
+  "extends": ["next/core-web-vitals", "next/typescript"]
+}
