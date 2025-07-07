@@ -1,4 +1,4 @@
-[![Screenshot-1.png](https://i.postimg.cc/RVmXrW5L/Screenshot-1.png)](https://postimg.cc/8syhMPC7)
+[![Screenshot-2.png](https://i.postimg.cc/N0QKBwGV/Screenshot-2.png)](https://postimg.cc/ZWDbx2dF)
 
 # HZ FiveM Artifacts DB
 
